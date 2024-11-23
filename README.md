@@ -31,4 +31,4 @@
 Muhammad Ridhoni Ilham 2210010515
 
 ## Demo
-![Demo GIF]([https://github.com/willyrahman/ApkCekCuacaSederhana/blob/main/img/Demo%20tugas6%20ApkCekCuacaSederhana.gif](https://github.com/Ridhoni123/AplikasiCekCuacaSederhana/blob/main/img/Recording%202024-11-23%20214640.gif))
+![Demo GIF](https://github.com/Ridhoni123/AplikasiCekCuacaSederhana/blob/main/img/Recording%202024-11-23%20214640.gif)
